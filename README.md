@@ -56,3 +56,7 @@ _Parameters_
 _Customization_
 - Adjust duty cycles to change motor positions.
 - Modify sine wave parameters for different leg behaviors.
+
+_Acknowledgements_
+
+Contributors: Anika Koul, Arushi Mittal.
